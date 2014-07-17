@@ -1,0 +1,20 @@
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Host\bin\Debug\Host.exe
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Host\bin\Debug\Host.pdb
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Host\bin\Debug\Interface.dll
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Host\bin\Debug\Plugin.dll
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Host\bin\Debug\Interface.pdb
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Host\bin\Debug\Plugin.pdb
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Host\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Host\obj\Debug\Host.exe
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Host\obj\Debug\Host.pdb
+D:\My Projects\Research\PluginArchitecture\Host\obj\Debug\Host.exe
+D:\My Projects\Research\PluginArchitecture\Host\obj\Debug\Host.pdb
+D:\My Projects\Research\PluginArchitecture\Host\bin\Debug\Host.exe
+D:\My Projects\Research\PluginArchitecture\Host\bin\Debug\Host.pdb
+D:\My Projects\Research\PluginArchitecture\Host\bin\Debug\Interface.dll
+D:\My Projects\Research\PluginArchitecture\Host\bin\Debug\Plugin.dll
+D:\My Projects\Research\PluginArchitecture\Host\bin\Debug\Interface.pdb
+D:\My Projects\Research\PluginArchitecture\Host\bin\Debug\Plugin.pdb
+D:\My Projects\Research\PluginArchitecture\Host\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Research\PluggableArchitecture\Host\obj\Debug\Host.exe
+D:\My Projects\Research\PluggableArchitecture\Host\obj\Debug\Host.pdb

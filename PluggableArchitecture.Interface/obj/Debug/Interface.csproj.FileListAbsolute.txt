@@ -1,0 +1,10 @@
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Interface\bin\Debug\Interface.dll
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Interface\bin\Debug\Interface.pdb
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Interface\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Interface\obj\Debug\Interface.dll
+D:\My Projects\Visual Studio\Research\PluginArchitecture\Interface\obj\Debug\Interface.pdb
+D:\My Projects\Research\PluginArchitecture\Interface\bin\Debug\Interface.dll
+D:\My Projects\Research\PluginArchitecture\Interface\bin\Debug\Interface.pdb
+D:\My Projects\Research\PluginArchitecture\Interface\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Research\PluginArchitecture\Interface\obj\Debug\Interface.dll
+D:\My Projects\Research\PluginArchitecture\Interface\obj\Debug\Interface.pdb

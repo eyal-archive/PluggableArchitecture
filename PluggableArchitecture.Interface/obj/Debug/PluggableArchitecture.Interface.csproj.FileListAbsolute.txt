@@ -1,0 +1,40 @@
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.dll
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.pdb
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Interface\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.dll
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.pdb
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.dll
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.pdb
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Interface\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.dll
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.pdb
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.dll
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.pdb
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Interface\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.dll
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.pdb
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.dll
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.pdb
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Interface\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.dll
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.pdb
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.dll
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.pdb
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.csprojResolveAssemblyReference.cache
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.dll
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.pdb
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.dll
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.pdb
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.csprojResolveAssemblyReference.cache
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.dll
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.pdb
+D:\Projects\Old_Samples\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.dll
+D:\Projects\Old_Samples\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.pdb
+D:\Projects\Old_Samples\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.csprojResolveAssemblyReference.cache
+D:\Projects\Old_Samples\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.dll
+D:\Projects\Old_Samples\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.pdb
+D:\xx\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.dll
+D:\xx\PluggableArchitecture.Interface\bin\Debug\PluggableArchitecture.Interface.pdb
+D:\xx\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.csprojResolveAssemblyReference.cache
+D:\xx\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.dll
+D:\xx\PluggableArchitecture.Interface\obj\Debug\PluggableArchitecture.Interface.pdb

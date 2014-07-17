@@ -1,0 +1,74 @@
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.exe
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.pdb
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.dll
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.dll
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.pdb
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.pdb
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Host\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.exe
+D:\My Projects\Visual Studio\Research\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.pdb
+d:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.exe
+d:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.pdb
+d:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.dll
+d:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.dll
+d:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.pdb
+d:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.pdb
+d:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\obj\Debug\ResolveAssemblyReference.cache
+d:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.exe
+d:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.pdb
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.exe
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.pdb
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.dll
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.dll
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.pdb
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.pdb
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Host\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.exe
+D:\My Projects\Visual Studio\__Practices\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.pdb
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.exe
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.pdb
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.dll
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.dll
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.pdb
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.pdb
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Host\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.exe
+D:\My Projects\Projects\__Practices\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.pdb
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.exe
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.pdb
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.dll
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.dll
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.pdb
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.pdb
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.csprojResolveAssemblyReference.cache
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.exe
+e:\Projects\Visual Studio\@Workshop\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.pdb
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.exe
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.pdb
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.dll
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.dll
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.pdb
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.pdb
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.csprojResolveAssemblyReference.cache
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.exe
+e:\Projects\Visual Studio\@Samples\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.pdb
+D:\Projects\Old_Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.exe
+D:\Projects\Old_Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.pdb
+D:\Projects\Old_Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.dll
+D:\Projects\Old_Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.dll
+D:\Projects\Old_Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.pdb
+D:\Projects\Old_Samples\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Plugin.pdb
+D:\Projects\Old_Samples\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.csprojResolveAssemblyReference.cache
+D:\Projects\Old_Samples\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.exe
+D:\Projects\Old_Samples\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.pdb
+D:\xx\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.exe
+D:\xx\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.pdb
+D:\xx\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.csprojResolveAssemblyReference.cache
+D:\xx\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.exe
+D:\xx\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Host.pdb
+D:\xx\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.dll
+D:\xx\PluggableArchitecture.Host\bin\Debug\PluggableArchitecture.Interface.pdb
+d:\Projects\Examples\CSharp\[Console] PluggableArchitecture\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.exe
+d:\Projects\Examples\CSharp\[Console] PluggableArchitecture\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.pdb
+d:\Projects\Code\Examples\CSharp\Console\PluggableArchitecture\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.exe
+d:\Projects\Code\Examples\CSharp\Console\PluggableArchitecture\PluggableArchitecture.Host\obj\Debug\PluggableArchitecture.Host.pdb

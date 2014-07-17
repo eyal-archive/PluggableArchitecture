@@ -1,0 +1,9 @@
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Release\PluggableArchitecture.Host.exe
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Release\PluggableArchitecture.Host.pdb
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Release\PluggableArchitecture.Interface.dll
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Release\PluggableArchitecture.Plugin.dll
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Release\PluggableArchitecture.Interface.pdb
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\bin\Release\PluggableArchitecture.Plugin.pdb
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\obj\Release\ResolveAssemblyReference.cache
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\obj\Release\PluggableArchitecture.Host.exe
+D:\My Projects\Visual Studio\__Research\PluggableArchitecture.Host\obj\Release\PluggableArchitecture.Host.pdb
